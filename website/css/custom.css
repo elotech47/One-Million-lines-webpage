@@ -28,3 +28,39 @@ body {
     font-weight: lighter;
     margin-bottom: 30px;
     padding: 0 50px;
+
+}
+.emphasis{
+    color:red;
+}
+
+.homepage {
+    text-align: center;
+    
+}
+
+.homepage h2, .homepage h3{
+text-transform: uppercase;
+    color: #e74c3c;
+    font-family: 'Arvo';
+}
+
+.homepage h2 {
+      font-size: 30px;
+}
+.homepage h3 {
+    font-size: 26px;
+}
+.homepage p {
+    font-size: 21px;
+    font-weight: 300;
+}
+.homepage a{
+    color: #e74c3c
+}
+
+.homepage hr{
+    border-color: #e74c3c;
+    width: 160px;
+    margin-top: 16px
+}
